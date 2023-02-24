@@ -6,10 +6,10 @@ Wed Developer & Occasional Designer
 
 I'm a Wed Developer specializing in building (and occasionally designing) exceptional digital experiences using modern technologies.
 
-*   🌍  I'm based in Lagos, Nigeria
-*   ✉️  You can contact me at [adedayoaturu@gmail.com](mailto:adedayoaturu@gmail.com)
-*   🚀  I'm currently working on [Forex Dashboard](http://forexdash.netlify.app)
-*   🤝  I'm open to collaborating on Projects
+* 🌍  I'm based in Lagos, Nigeria
+* ✉️  You can contact me at [adedayoaturu@gmail.com](mailto:adedayoaturu@gmail.com)
+* 🚀  I'm currently working on [Forex Dashboard](http://forexdash.netlify.app)
+* 🤝  I'm open to collaborating on Projects
 
 ### Skills 
 <p align="left">
