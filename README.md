@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adedayo Aturu
 =====================================================================================================================================
 
-Wed Developer & Occasional Designer
+Software Developer & Occasional Designer
 -----------------------------------
 
-I'm a Wed Developer specializing in building (and occasionally designing) exceptional digital experiences using modern technologies.
+I’m a Software Developer focused on creating and occasionally designing exceptional, bespoke, and engaging digital experiences for the web using modern technologies.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [adedayoaturu@gmail.com](mailto:adedayoaturu@gmail.com)
