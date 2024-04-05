@@ -10,10 +10,10 @@ As a lifelong learner and technical enthusiast, I thrive on challenging opportun
 
 I live by the philosophy “be curious, not judgmental.”
 
-# Specialties: 
+#### Specialties: 
 Software design and implementation | Scripting and automation | Articulation, animation, simulation, shading, and rendering pipelines | Software performance optimization and accessibility | UI design and development | Automated testing and deployment.
 
-# Technologies: 
+#### Technologies: 
 JavaScript | TypeScript | Python | React | Next.js | Node.js | Express.js | FastAPI | React Native | Three.js | React Three Fiber | MySQL | MongoDB | Docker | Kubernetes | Git | GitHub | Figma
 
 
