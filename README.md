@@ -1,10 +1,21 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adedayo Aturu
 =====================================================================================================================================
 
-Software Developer & Occasional Designer
+Software Developer
 -----------------------------------
 
-I’m a Software Developer focused on creating and occasionally designing exceptional, bespoke, and engaging digital experiences for the web using modern technologies.
+I’m a software developer from Lagos, Nigeria, dedicated to building, designing, and developing large-scale object-oriented software solutions.
+
+As a lifelong learner and technical enthusiast, I thrive on challenging opportunities, continuously seeking to learn and grow from both successes and failures.
+
+I live by the philosophy “be curious, not judgmental.”
+
+Specialties: 
+Software design and implementation | Scripting and automation | Articulation, animation, simulation, shading, and rendering pipelines | Software performance optimization and accessibility | UI design and development | Automated testing and deployment.
+
+Technologies: 
+JavaScript | TypeScript | Python | React | Next.js | Node.js | Express.js | FastAPI | React Native | Three.js | React Three Fiber | MySQL | MongoDB | Docker | Kubernetes | Git | GitHub | Figma
+
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [adedayoaturu@gmail.com](mailto:adedayoaturu@gmail.com)
